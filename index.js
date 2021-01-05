@@ -7,7 +7,8 @@ const {
   guild,
   mainCategory,
   logs,
-  modMailRole
+  modMailRole,
+  mainServer
 } = require("./config/settings.json");
 //mongoose to manage connection with mongoDB
 const mongoose = require("mongoose");
@@ -190,7 +191,7 @@ client.on("message", async (message) => {
     //ID of author who created the thread
     let firstAuthorID = message.channel.name; 
     //the main server (not the one in which threads are created)
-    let zCafe = client.guilds.cache.get("750953972801732648");
+    let zCafe = client.guilds.cache.get(mainServer);
     //getting the author who created the thread by ID
     let firstAuthorMember = zCafe.members.cache.get(firstAuthorID);
 
