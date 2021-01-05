@@ -1,0 +1,23 @@
+{
+  "name": "discord.js-modmail",
+  "version": "1.0.0",
+  "description": "Simple modmail bot for Discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhue675/discord.js-modmail.git"
+  },
+  "author": "zhue#5683",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhue675/discord.js-modmail/issues"
+  },
+  "homepage": "https://github.com/zhue675/discord.js-modmail#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.9"
+  }
+}
