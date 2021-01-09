@@ -26,7 +26,7 @@ Simple modmail bot for Discord servers, which is easy to set up and run yourself
 <h3> Commands </h3>
 <b>Default prefix:</b> <code>!</code>
 <br>
-<code>!reply <reply></code> OR <code>!r <reply></code> : Replies to a thread with specidied (SUPPORT TEAM ONLY)
+<code>!reply <reply></code> OR <code>!r <reply></code> : Replies to a thread with the specified (SUPPORT TEAM ONLY)
 <br>
 <code>!close</code> : Closes a thread with a 10 seconds timeout
 <br>
