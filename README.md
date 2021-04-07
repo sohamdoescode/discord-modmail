@@ -1,6 +1,9 @@
 # Z Support Modmail Bot
 Simple modmail bot for Discord servers, which is easy to set up and run yourself
-
+ <h1> IMPORTANT NOTICE </h1> 
+ <br>
+ I highly recommend that you DO NOT use this as of now as its filled with bugs. I will probably make a rewrite sometime :)
+ <br>
 <h3>Requirements</h3>
 💠 node.js
 <br>
@@ -51,9 +54,6 @@ These snippets come in handy while handling ModMails. When executed (with <code>
 <br>
 <br>
 <h3>More Help</h3>
-<b> For more help regarding the setup/anything else about the bot feel free to join our chill community <a href="https://discord.gg/J2uEYyUPu5">HERE</a> (The Z-Cafe Discord server)</b>
-<br>
-💞 Regardless come hang out with us!
 <br>
 Made with ♥️ by zhue#5683 (Discord username)
 <br>
