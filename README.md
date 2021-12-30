@@ -55,6 +55,6 @@ These snippets come in handy while handling ModMails. When executed (with <code>
 <br>
 <h3>More Help</h3>
 <br>
-Made with ♥️ by zhue#5683 (Discord username)
+Made with ♥️ by Soham#7975 (Discord username)
 <br>
-Feel free to add me on Discord regarding issues as well!
+Please don't add me on Discord for issues regarding this
