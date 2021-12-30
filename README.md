@@ -1,4 +1,4 @@
-# Z Support Modmail Bot
+# Discord Modmail Bot
 Simple modmail bot for Discord servers, which is easy to set up and run yourself
  <h1> IMPORTANT NOTICE </h1> 
  <br>
